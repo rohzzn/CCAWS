@@ -460,9 +460,6 @@ sudo service apache2 restart
 - Provide a download link for the uploaded file.
 - Display all the information upon relogin.
 
-## Screenshots
-
-*Include screenshots of each major step, as per your assignment requirements.*
 
 ## Security Considerations
 
